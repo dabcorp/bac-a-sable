@@ -7,7 +7,6 @@ Bac à sable Friends of Presta
 - Jean-François Viper
 - Guillaume batier prestadown
 - FLOREZ MURILLO Daniel, Payplal
-- Fumseck INFO
 - BIZOTTO Christian, Welcome E-Commerce
 - Tanguy JACQUET LePopulaire87
 - Alexandre Fouer - Le raporteur-Discount
@@ -28,4 +27,4 @@ Bac à sable Friends of Presta
 - Omar Jbailli, Aikii
 - Compin Philippe, Aikin
 - ATATOUSSE Mohamed, Aini
-- Damien Bellegueulle - Phenix Info
+- Damien Bellegueulle - Phenix Info (Fumseck INFO)
