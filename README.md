@@ -14,7 +14,6 @@ Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
 - Jean-François Viguier (Creabilis)
 - Guillaume batier PrestaSafe
 - FLOREZ MURILLO Daniel, Payplal
-- Fumseck INFO
 - BIZOTTO Christian, Welcome E-Commerce
 - Tanguy JACQUET Mediacom87
 - Alexandre Fouer - Le raporteur-Discount
